@@ -1,2 +1,2 @@
 # Illustris_smbh
-This repository contains some of my work with the IllsutrisTNG data
+This repository contains some work with the IllsutrisTNG data.
